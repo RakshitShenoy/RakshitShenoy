@@ -5,7 +5,7 @@ my name is Rakshit shenoy im a student and trying to learn new thing
 I'm a passionate student who loves computers and am trying to get a job i would love doing for that i am trying to explore new things
 
 <img width="498" height="373" alt="CatComputerGIF" src="https://github.com/user-attachments/assets/cb6dde77-43e7-4037-b8d2-091eb0601ae9" />
-###litrally me lol
+### litrally me lol
 
 
 - 🌱 Currently learning: python advanced,Machine learning.
