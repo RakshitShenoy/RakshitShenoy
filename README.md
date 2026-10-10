@@ -16,10 +16,9 @@ I'm a passionate student who loves computers and am trying to get a job i would 
 - 📫 How to reach me: u can reach me on rakshitshenoy0011@gmail.com or on my insta "https://www.instagram.com/rakshitshenoy0011" or if u really want "https://www.linkedin.com/in/rakshit-shenoy-5a448641a"
 - ⚡ Fun fact: i really love cats :> and gaming and learning about computers :)
 - 😎 my fav gif:
--
 <img width="498" height="498" alt="BlehCatBlehhGIF" src="https://github.com/user-attachments/assets/7a9f2249-d5bc-40e4-aab8-85a1e5f064f8" />
 
 
 - im open to new experiences so if u can help me learn plz doo :))
 
-- <img width="498" height="410" alt="CatStickerLineStickerGIF" src="https://github.com/user-attachments/assets/88221e66-57d1-4e59-abca-f3da00c9f409" />
+<img width="498" height="410" alt="CatStickerLineStickerGIF" src="https://github.com/user-attachments/assets/88221e66-57d1-4e59-abca-f3da00c9f409" />
