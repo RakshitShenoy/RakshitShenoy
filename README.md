@@ -8,11 +8,11 @@ I'm a passionate student who loves computers and am trying to get a job i would 
 litrally me lol
 
 
-- 🌱 Currently learning: git hub,git.
-- 🔭 Working on: learing skills , data analytics.
-- 🌍 Languages: currently dont speak any programming languages fluently and human languages i speak english,hindi,konkani.
-  (update)i now know python java and c++
-- 📫 How to reach me: u can reach me on rakshitshenoy0011@gmail.com or on my insta rakshitshenoy0011
+- 🌱 Currently learning: python advanced,Machine learning.
+- 🔭 Working on: learing skills , data analytics,LLM ,Making a Personalized Ai Assistant from Scratch.
+- 🌍 Languages: currently dont speak any programming languages fluently and for human languages i speak english,hindi,konkani.
+  (update)i now know python java and c++ basics.
+- 📫 How to reach me: u can reach me on rakshitshenoy0011@gmail.com or on my insta "https://www.instagram.com/rakshitshenoy0011"
 - ⚡ Fun fact: i really love cats :> and gaming and learning about computers :)
 - 😎 my fav gif:
 -
