@@ -13,7 +13,7 @@ I'm a passionate student who loves computers and am trying to get a job i would 
 - 🔭 Working on: learing skills , data analytics,LLM ,Making a Personalized Ai Assistant from Scratch.
 - 🌍 Languages: currently dont speak any programming languages fluently and for human languages i speak english,hindi,konkani.
   (update)i now know python java and c++ basics.
-- 📫 How to reach me: u can reach me on rakshitshenoy0011@gmail.com or on my insta "https://www.instagram.com/rakshitshenoy0011"
+- 📫 How to reach me: u can reach me on rakshitshenoy0011@gmail.com or on my insta "https://www.instagram.com/rakshitshenoy0011" or if u really want "https://www.linkedin.com/in/rakshit-shenoy-5a448641a"
 - ⚡ Fun fact: i really love cats :> and gaming and learning about computers :)
 - 😎 my fav gif:
 -
